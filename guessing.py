@@ -43,4 +43,3 @@ def computerguess():
 
 while True:
     computerguess()
-
