@@ -10,4 +10,3 @@ while True:
     turtle.circle(30)
     break # comment if you want to run
 # turtle.done()
-
