@@ -32,4 +32,3 @@ elif newPassword == "avg":
     avgpass()
 elif newPassword == "strong":
     strongpass()
-
